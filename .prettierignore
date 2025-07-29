@@ -1,0 +1,15 @@
+# Ignore artifacts:
+build
+dist
+coverage
+node_modules
+*.lock
+*.log
+# Ignore config
+*.config.js
+*.config.cjs
+*.config.ts
+# Ignore generated
+*.d.ts
+# Ignore public static
+public
