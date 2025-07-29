@@ -1,4 +1,3 @@
-
 # React 19 Base Project
 
 ## Sơ đồ cấu trúc thư mục dự án
