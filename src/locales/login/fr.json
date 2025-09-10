@@ -1,0 +1,26 @@
+{
+  "title": "Connexion",
+  "subtitle": "Connectez-vous à votre compte",
+  "form": {
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "rememberMe": "Se souvenir de moi",
+    "forgotPassword": "Mot de passe oublié?",
+    "loginButton": "Se connecter",
+    "noAccount": "Vous n'avez pas de compte?",
+    "registerLink": "S'inscrire maintenant"
+  },
+  "validation": {
+    "emailRequired": "Veuillez entrer votre e-mail",
+    "emailInvalid": "Adresse e-mail invalide",
+    "passwordRequired": "Veuillez entrer votre mot de passe",
+    "passwordMinLength": "Le mot de passe doit contenir au moins 8 caractères"
+  },
+  "messages": {
+    "loginSuccess": "Connexion réussie",
+    "loginError": "Échec de la connexion",
+    "invalidCredentials": "E-mail ou mot de passe invalide",
+    "accountLocked": "Le compte est verrouillé",
+    "accountNotVerified": "Compte non vérifié"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Accueil",
+  "welcome": "Bienvenue dans l'application",
+  "description": "Ceci est la page d'accueil de l'application React TypeScript avec le système de routage dynamique",
+  "features": {
+    "title": "Fonctionnalités",
+    "dynamicRouting": "Routage dynamique",
+    "multiTenant": "Support multi-tenant",
+    "security": "Sécurité multicouche",
+    "testing": "Tests complets",
+    "performance": "Optimisation des performances"
+  },
+  "gettingStarted": {
+    "title": "Commencer",
+    "description": "Guide d'utilisation du système",
+    "button": "Voir le guide"
+  }
+}
