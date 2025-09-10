@@ -1,0 +1,18 @@
+{
+  "title": "Trang chủ",
+  "welcome": "Chào mừng đến với ứng dụng",
+  "description": "Đây là trang chủ của ứng dụng React TypeScript với Dynamic Router System",
+  "features": {
+    "title": "Tính năng",
+    "dynamicRouting": "Định tuyến động",
+    "multiTenant": "Hỗ trợ đa tenant",
+    "security": "Bảo mật đa lớp",
+    "testing": "Kiểm thử toàn diện",
+    "performance": "Tối ưu hiệu suất"
+  },
+  "gettingStarted": {
+    "title": "Bắt đầu",
+    "description": "Hướng dẫn sử dụng hệ thống",
+    "button": "Xem hướng dẫn"
+  }
+}

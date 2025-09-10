@@ -1,0 +1,26 @@
+{
+  "title": "Login",
+  "subtitle": "Sign in to your account",
+  "form": {
+    "email": "Email",
+    "password": "Password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "loginButton": "Login",
+    "noAccount": "Don't have an account?",
+    "registerLink": "Sign up now"
+  },
+  "validation": {
+    "emailRequired": "Please enter your email",
+    "emailInvalid": "Invalid email address",
+    "passwordRequired": "Please enter your password",
+    "passwordMinLength": "Password must be at least 8 characters"
+  },
+  "messages": {
+    "loginSuccess": "Login successful",
+    "loginError": "Login failed",
+    "invalidCredentials": "Invalid email or password",
+    "accountLocked": "Account is locked",
+    "accountNotVerified": "Account not verified"
+  }
+}
