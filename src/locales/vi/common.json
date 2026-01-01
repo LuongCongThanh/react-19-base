@@ -1,0 +1,18 @@
+{
+  "welcome": "Chào mừng",
+  "hello": "Xin chào",
+  "dashboard": "Bảng điều khiển",
+  "button": {
+    "submit": "Gửi",
+    "cancel": "Hủy",
+    "save": "Lưu"
+  },
+  "error": {
+    "title": "Đã có lỗi xảy ra",
+    "generic": "Vui lòng thử lại sau",
+    "retry": "Thử lại"
+  },
+  "loading": {
+    "text": "Đang tải..."
+  }
+}
